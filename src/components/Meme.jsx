@@ -1,5 +1,3 @@
-import memesData from "../assets/info/memesData"
-
 export default function Meme() {
     return (
         <main>

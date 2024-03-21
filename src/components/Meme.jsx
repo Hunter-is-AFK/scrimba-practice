@@ -1,3 +1,4 @@
+import React from "react"
 import memesData from "../assets/data/memesData.js"
 
 function getMemeImage() {
